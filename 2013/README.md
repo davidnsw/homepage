@@ -1,4 +1,4 @@
-Joanna's Homepage
+David's Homepage
 ================
 
-Joanna's personal website: [wileam.com](https://davidnsw.github.com/homepage).
+David's personal website: [wileam.com](https://davidnsw.github.com/homepage).
